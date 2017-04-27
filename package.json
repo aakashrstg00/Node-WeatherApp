@@ -1,0 +1,14 @@
+{
+  "name": "mweatherm",
+  "version": "1.0.0",
+  "description": "a command line application to determine weather at a place by entering just the name of the place.",
+  "main": "weather.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "Aakash Rastogi <1998aakashrastogi@gmail.com>",
+  "license": "ISC"
+}
